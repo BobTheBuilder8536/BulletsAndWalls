@@ -4,4 +4,4 @@
 
 The bullets move and hit a wall which has a random thickness between 22px and 83px , the damage caused is calculated by an algorithm which colours the walls according to the damage caused and determines if the wall is safe or not.
 
-Not Safe = red Safe = green
+Not Safe = red      Safe = green
