@@ -6,3 +6,5 @@ The bullets move and hit a wall which has a random thickness between 22px and 83
 
 Not Safe = red      
 Safe = green
+
+Git Link: https://bobthebuilder8536.github.io/BulletsAndWalls/
